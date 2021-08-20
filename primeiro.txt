@@ -1,4 +1,9 @@
 !!!
 teste
 Texto teste
+<<<<<<< HEAD
 teste
+=======
+
+Inserindo + uma linhas
+>>>>>>> ba2d7165024650cf2746757dbbedc9c5857b43ca
