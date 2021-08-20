@@ -1,5 +1,10 @@
 !!! Simulando um pull 3
 Teste
+
+!!! Simulando um pull 4
+teste
+Texto teste
+teste
 Inserindo + uma linhas
 @@@
 Texto
