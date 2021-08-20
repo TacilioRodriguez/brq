@@ -7,3 +7,4 @@ Inserindo + uma linhas
 Texto
 Estou colocando outro texto
 Estou colocando um terceiro texto
+Alterando branch local                                                                                                             
